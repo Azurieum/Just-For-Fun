@@ -1,6 +1,6 @@
 from dhooks import Webhook, Embed
 import time
-TheWebHook = Webhook("https://discord.com/api/webhooks/935720711295754251/SwheYQcXCIW2U-KfAuw-LvFm-WcggMSsuloGYniAmDbVoaIDdqY20Mgcz1_F6YRJWS9c")
+TheWebHook = Webhook("PUTYOURWEBHOOKHERE")
 neco = "https://media.discordapp.net/attachments/759572977770692627/935722923191324682/copim.jpeg"
 IMGorMSG = int(input("Message[1], Image[2] choose: "))
 #credit to dhook team helped me a lot! 
